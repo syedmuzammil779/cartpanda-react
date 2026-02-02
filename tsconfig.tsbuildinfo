@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/funnelbuilder.tsx","./src/components/palette.tsx","./src/nodes/funnelnode.tsx","./src/nodes/index.ts","./src/utils/funnelrules.ts","./src/utils/labels.ts","./src/utils/storage.ts"],"version":"5.6.3"}
